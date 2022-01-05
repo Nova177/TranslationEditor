@@ -1,0 +1,28 @@
+<translationEditor>
+  <common>
+    <translation key="product">
+      <de>Tool Awesome</de>
+      <en>Tool Awesome</en>
+    </translation>  
+    <translation key="ui.okButton">
+      <de>OK</de>
+      <en>OK</en>
+    </translation>  
+    <translation key="ui.cancelButton">
+      <de>Abbrechen</de>
+      <en>Cancel</en>
+    </translation>  
+  </common>
+  <translations>
+    <translation key="ui.create.title">
+      <de>Element anlegen</de>
+      <en>Create element</en>
+    </translation>
+    <translation key="ui.create.description">
+      <de>Erstellt ein neues Element in {product}</de>
+      <en>Creates a new element for {product}</en>
+    </translation>  
+    <translation key="ui.create.ok" ref="ui.okButton" />
+    <translation key="ui.create.cancel" ref="ui.cancelButton" />
+  </translations>
+</translationEditor> 
